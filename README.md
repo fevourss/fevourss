@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm starting my journey in tech with a focus on cy
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🎵 **My Passions**
-- 🎮 Gaming & Esports
-- 🎵 Music Production
+- 🎮 Gaming 
+- 🎵 Music 
 - 🔐 Cybersecurity & Ethical Hacking
 - 💻 Programming & Development
 
