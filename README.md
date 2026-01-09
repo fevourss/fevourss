@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hello, I'm Alena!
 
-<!--
-**fevourss/fevourss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎯 Cybersecurity Enthusiast & Developer in Training
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm starting my journey in tech with a focus on cybersecurity and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ **Technologies I'm Learning**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🎵 **My Passions**
+- 🎮 Gaming & Esports
+- 🎵 Music Production
+- 🔐 Cybersecurity & Ethical Hacking
+- 💻 Programming & Development
+
+---
+
+### 📂 **Featured Projects**
+
+#### 🌐 [Personal Portfolio](https://fevourss.github.io/portf/)
+My first GitHub project - a responsive personal website with my info and interests.
+
+**Tech:** HTML, CSS, GitHub Pages
+
+---
+
+### 📊 **GitHub Stats**
+![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=fevourss&show_icons=true&theme=radical)
+
+---
+
+### 📫 **Connect with me**
+[![GitHub](https://img.shields.io/badge/GitHub-fevourss-181717?style=for-the-badge&logo=github)](https://github.com/fevourss)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-8A2BE2?style=for-the-badge)](https://fevourss.github.io/alena-portfolio/)
+
+---
+
+### ✨ **Fun Fact**
+> "I believe cybersecurity isn't just about protection—it's about understanding how things work and making them better."
+
+⭐ *Feel free to explore my repositories below!*
