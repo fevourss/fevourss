@@ -29,11 +29,6 @@ My first GitHub project - a responsive personal website with my info and interes
 
 ---
 
-### 📊 **GitHub Stats**
-![Alena's GitHub stats](https://github-readme-stats.vercel.app/api?username=fevourss&show_icons=true&theme=radical)
-
----
-
 ### 📫 **Connect with me**
 [![GitHub](https://img.shields.io/badge/GitHub-fevourss-181717?style=for-the-badge&logo=github)](https://github.com/fevourss)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-8A2BE2?style=for-the-badge)](https://fevourss.github.io/alena-portfolio/)
