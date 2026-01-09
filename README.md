@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm starting my journey in tech with a focus on cy
 - 🎮 Gaming 
 - 🎵 Music 
 - 🔐 Cybersecurity & Ethical Hacking
-- 💻 Programming & Development
+- 💻 Programming
 
 ---
 
