@@ -30,9 +30,8 @@ My first GitHub project - a responsive personal website with my info and interes
 ---
 
 ### 📫 **Connect with me**
-### 📫 **Connect with me**
 [![GitHub](https://img.shields.io/badge/GitHub-fevourss-181717?style=for-the-badge&logo=github)](https://github.com/fevourss)
-[![Discord](https://img.shields.io/badge/Discord-_estrellaaa-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/estrellaaa)
+[![Discord](https://img.shields.io/badge/Discord-_estrellaaa_-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/estrellaaa)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-8A2BE2?style=for-the-badge)](https://fevourss.github.io/portf//)
 
 ---
