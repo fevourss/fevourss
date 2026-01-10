@@ -20,7 +20,6 @@
 ### 📂 **Featured Projects**
 
 #### 🌐 [Personal Portfolio](https://fevourss.github.io/portf/)
-My first GitHub project - a responsive personal website with my info and interests.
 
 **Tech:** HTML, CSS, GitHub Pages
 
@@ -32,7 +31,5 @@ My first GitHub project - a responsive personal website with my info and interes
 
 ---
 
-### ✨ **Fun Fact**
-> "I believe cybersecurity isn't just about protection - it's about understanding how things work and making them better."
 
 ⭐ *Feel free to explore my repositories below!*
