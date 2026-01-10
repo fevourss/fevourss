@@ -2,8 +2,6 @@
 
 ### 🎯 Cybersecurity Enthusiast & Developer in Training
 
-Welcome to my GitHub profile! I'm starting my journey in tech with a focus on cybersecurity and programming.
-
 ---
 
 ### 🛠️ **Technologies I'm Learning**
