@@ -13,8 +13,6 @@
 - 🎮 Gaming 
 - 🎵 Music 
 - 🔐 Cybersecurity & Ethical Hacking
-- 💻 Programming
-
 ---
 
 ### 📂 **Featured Projects**
