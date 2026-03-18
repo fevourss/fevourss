@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Alena!
+# Hello, I'm Alena!
 
 ### Cybersecurity Enthusiast & Developer in Training
 
