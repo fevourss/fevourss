@@ -1,6 +1,6 @@
 # Hello, I'm Alena!
 
-### Cybersecurity Enthusiast & Developer in Training
+### Cybersecurity Enthusiast 
 
 ---
 
