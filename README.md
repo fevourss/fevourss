@@ -9,17 +9,6 @@
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **My Passions**
-- Gaming 
-- Music 
-- Cybersecurity & Ethical Hacking
----
-
-### **Featured Projects**
-
-#### [Personal Portfolio](https://fevourss.github.io/portf/)
-
-**Tech:** HTML, CSS, GitHub Pages
 
 ---
 
